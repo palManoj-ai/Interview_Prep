@@ -16,6 +16,8 @@ public class p7StringManipulation {
         System.out.println("The index of word \"here\" is at: "+str.indexOf("here"));
         System.out.println(" The \\ is called forward slash and \'demo\' is a single quote.");
 
+        //checkout printf formatting too
+
         //string comparison
         System.out.println(str.equals(str2));  //false as H is caps
         System.out.println(str.equalsIgnoreCase(str2));    //compare wo case, true

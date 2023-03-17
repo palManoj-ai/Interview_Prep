@@ -20,6 +20,7 @@ public class p22_findduplicatewords {
             }
         }
         return map;
+        //if it were to find unique words only we could use Hashset and use .add or .remove for duplicates
     }
     public static void main(String[] args) {
         String testString="Hello hello there, I am Manoj Manoj Manoj.";

@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Q14_StringSet {
+public class Q_StringSet {
     public static void main(String[] args) {
 
         //sample ip

@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AdvancedJava/AdvancedJava.iml" filepath="$PROJECT_DIR$/../AdvancedJava/AdvancedJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HackerRank/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/../HackerRank/Algorithms/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DSAlgorithms/DSAlgorithms.iml" filepath="$PROJECT_DIR$/../DSAlgorithms/DSAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/../HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/../HackerRank/HackerRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/../Leetcode/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/../NavLabs_interviewQn/NavLabs_interviewQn.iml" filepath="$PROJECT_DIR$/../NavLabs_interviewQn/NavLabs_interviewQn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AdvancedJava/RecursionKunal/RecursionKunal.iml" filepath="$PROJECT_DIR$/../AdvancedJava/RecursionKunal/RecursionKunal.iml" />
     </modules>
   </component>
 </project>

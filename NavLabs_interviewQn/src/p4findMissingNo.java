@@ -13,6 +13,9 @@ public class p4findMissingNo {
         }
         missingNumber=sumNumberArray-sumTestArray;
         return ("The missing number is:"+missingNumber);
+
+        //above method has complexity O(2N) ==0(N)
+
     }
 
     public static void main(String[] args) {
